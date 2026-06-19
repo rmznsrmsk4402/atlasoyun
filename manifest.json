@@ -1,0 +1,33 @@
+{
+  "name": "Atlas — Dünya Tahmin Oyunu",
+  "short_name": "Atlas",
+  "description": "Gerçek dünya haritası üzerinde 53 ülkeyi tahmin et! İpuçları, seviyeler ve canlarla eğlenceli coğrafya oyunu. Türkçe ve İngilizce.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060912",
+  "theme_color": "#060912",
+  "lang": "tr",
+  "categories": ["games", "education"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
